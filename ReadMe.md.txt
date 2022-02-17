@@ -1,3 +1,0 @@
-web application 
-	CLIENT 
-	API
